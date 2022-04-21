@@ -1,0 +1,27 @@
+{
+  "name": "nft-marketplace",
+  "version": "1.0.0",
+  "description": "ERC721-example-contract",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreAugusto11/nft-example-contract.git"
+  },
+  "keywords": [
+    "blockchain",
+    "ganache",
+    "truffle",
+    "nft",
+    "marketplace"
+  ],
+  "author": "andre.augusto@tecnico.ulisboa.pt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreAugusto11/nft-example-contract/issues"
+  },
+  "homepage": "https://github.com/AndreAugusto11/nft-example-contract#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1",
+    "truffle": "^5.0.5"
+  }
+}
